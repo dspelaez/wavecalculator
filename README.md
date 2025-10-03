@@ -1,8 +1,10 @@
 # Wave Calculator
 
+![Wave Calculator Banner](img/banner.jpg)
+
 An advanced JavaScript-based wave calculator for computing linear wave properties, analysing wave spectra, and visualising wave dynamics. This tool provides comprehensive wave analysis capabilities with an intuitive web interface.
 
-## Features
+## 🌊 Features
 
 ### Linear Wave Calculations
 - **Comprehensive wave properties**: Calculate amplitude, wavelength, period, phase speed, group velocity, and more
@@ -27,11 +29,11 @@ An advanced JavaScript-based wave calculator for computing linear wave propertie
 - **Export capabilities**: Download results as CSV or PDF
 - **Responsive design**: Works seamlessly on desktop and mobile devices
 
-## Live Demo
+## 🚀 Live Demo
 
 Visit the live application: [https://dspelaez.github.io/wavecalculator](https://dspelaez.github.io/wavecalculator)
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 - **Frontend**: Vanilla JavaScript (ES6+)
 - **UI Framework**: Bootstrap 5
@@ -39,7 +41,7 @@ Visit the live application: [https://dspelaez.github.io/wavecalculator](https://
 - **Icons**: Font Awesome 4.7
 - **Hosting**: GitHub Pages (static site)
 
-## Usage
+## 📖 Usage
 
 ### Basic Wave Calculations
 1. Navigate to the **Linear Waves** tab
@@ -70,7 +72,7 @@ Visit the live application: [https://dspelaez.github.io/wavecalculator](https://
    - Fetch distance (10 - 1000 km)
 3. View the generated JONSWAP spectrum and bulk wave parameters
 
-## Wave Theory
+## 🔬 Wave Theory
 
 This calculator implements linear wave theory (Airy theory) for surface gravity waves. Key equations include:
 
@@ -85,24 +87,23 @@ This calculator implements linear wave theory (Airy theory) for surface gravity 
 - No wave-current interaction
 - Ideal fluid (inviscid, incompressible)
 
-## References
+## 📚 References
 
 1. Dean, R.G. & Dalrymple, R.A. (1991). *Water Wave Mechanics for Engineers and Scientists*
 2. Hasselmann, K. et al. (1973). Measurements of wind-wave growth and swell decay during the Joint North Sea Wave Project (JONSWAP)
 3. Hunt, J.N. (1979). Direct solution of wave dispersion equation
 
-
-## Licence
+## 📄 Licence
 
 Copyright © 2020 Daniel Peláez-Zapata
 
 Distributed under the terms of the GNU/GPL 3.0 licence.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## Contact
+## 📧 Contact
 
 - **Author**: Daniel Peláez-Zapata
 - **Website**: [https://dspelaez.github.io](https://dspelaez.github.io)

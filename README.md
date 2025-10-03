@@ -1,6 +1,6 @@
 # Wave Calculator
 
-![Wave Calculator Banner](img/banner.jpg)
+![Wave Calculator Banner](img/banner-horizontal.jpg)
 
 An advanced JavaScript-based wave calculator for computing linear wave properties, analysing wave spectra, and visualising wave dynamics. This tool provides comprehensive wave analysis capabilities with an intuitive web interface.
 
